@@ -1,0 +1,6 @@
+{
+  "name": "Website Creation Agency",
+  "description": "Modern, fast and mobile-friendly websites designed to give your business a strong online presence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
